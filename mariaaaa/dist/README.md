@@ -1,5 +1,3 @@
-# dia dos namorados
+# mensagem fofa amiga
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/catblackindig/pen/YzMbMag](https://codepen.io/catblackindig/pen/YzMbMag).
-
-apenas uma demonstração de amor para quem você ama 
+apenas uma demonstração de html, css e javascript para quem você gosta de enche saco
